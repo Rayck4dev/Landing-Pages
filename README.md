@@ -10,9 +10,9 @@ Cada projeto é pensado como uma página independente, servindo tanto como portf
 - 🐶 **PetClini** → Landing page para clínica de pets  
   👉 [Ver branch PetClini](https://github.com/Rayck4dev/Landing-Pages/tree/PetClini)
 
-- ✂️ **Barbearia** → (em breve) landing page para barbearia  
+- ✂️ **Corte Fino** → (em breve) landing page para barbearia  
 
-- 🍽️ **Restaurante** → (em breve) landing page para restaurante  
+- 🍽️ **Raízes do Sabor** → (em breve) landing page para restaurante  
 ---
 
 ## 🛠️ Tecnologias utilizadas
