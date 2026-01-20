@@ -19,10 +19,10 @@ O projeto foi construído com **React + TailwindCSS**, trazendo animações mode
 
 ## 🛠️ Tecnologias utilizadas
 
-- [React](https://reactjs.org/)  
-- [TailwindCSS](https://tailwindcss.com/)  
-- [React Icons](https://react-icons.github.io/react-icons/)  
-- CSS customizado para animações (`float`, `gradient`).
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![React Icons](https://img.shields.io/badge/React%20Icons-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E) 
 
 ---
 
