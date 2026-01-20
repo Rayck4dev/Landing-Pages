@@ -1,4 +1,4 @@
-# 🐶 PETCLINI - Landing Page
+# 🐶 PETCLINI - Landing Page 2
 
 Landing page desenvolvida para a **PETCLINI**, uma clínica veterinária focada em carinho, dedicação e cuidado especial para pets.  
 O projeto foi construído com **React + TailwindCSS**, trazendo animações modernas e responsividade para desktop e mobile.
